@@ -30,7 +30,3 @@ You can also view all commands in-game by typing:
 1. Download the pack from the [releases page](../../releases).
 2. Place it in your world's `datapacks` folder (or follow your loader's install steps).
 3. Run `/function synv:help` in-game to verify it works.
-
-## License
-
-[MIT](LICENSE) © Luis Ant
