@@ -1,6 +1,6 @@
 # Last Lives — Minecraft Pack
 
-**Last Lives** is a Minecraft datapack/modpack that gives each player **3 lives**.
+**Last Lives** is a Minecraft datapack that gives each player **3 lives**.
 
 It includes a health counter, death animations, and commands to manage players' lives.
 
